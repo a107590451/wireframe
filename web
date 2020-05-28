@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+	<meta charset="UTF-8">
+	<!-- 手機版縮放 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<title>台灣新勢力</title>
+	<!-- css連結 -->
+	<link href="css/style.css" rel="stylesheet">	
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg  bg-block text-white fixed-top">
+		<a class="navbar-brand" href="#"><img src="img/標題.png"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+		  <span class="navbar-toggler-icon"></span>
+		</button>
+	  
+		<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+				
+
+		  <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+
+			<li class="nav-item active left-margin bg-block ">
+				<a class="nav-link text-white" href="#">電影</a>
+			</li>
+			<li class="nav-item left-margin bg-block ">
+			  <a class="nav-link text-white" href="#">戲劇</a>
+			</li>
+			<li class="nav-item left-margin bg-block ">
+				<a class="nav-link text-white" href="#">動漫</a>
+			</li>
+			<li class="nav-item left-margin bg-block ">
+				<a class="nav-link text-white" href="#">其他</a>
+			</li>
+		  </ul>
+		  <form class="form-inline my-2 my-lg-0">
+			<input class="form-control mr-sm-2" type="search" placeholder="">
+			<button class="btn  bg-danger my-2 my-sm-0" type="submit">搜尋</button>
+		  </form>
+		</div>
+	  </nav>
+	  
+	  <div class="video-margin">
+		<video  class="video-center" loop="true" autoplay="autoplay"  muted="true" controls>
+			
+			<source src="img/video.mp4" type="video/mp4" />
+			影片無法播放，請改用別的瀏覽器，或將影片
+			<a href="img/video.mp4">下載</a>後再播放。
+			</video>	
+	  </div>
+		
+			<div class="outer ">
+				<div class="size">
+					<div class="p1 text-center  re">
+						<a href="">
+							<img class="img" src="img/梨泰院.jpg">
+						</a>
+					</div>
+					<div class=" story text-white">
+						<span>梨泰院</span>
+						<br>
+						<p>
+							改編自同名網漫，講述男主的爸爸被餐飲業界的大企業會長和兒子害死了，男主在歷經千辛萬苦之後在梨泰院開店並向害死他爸爸的仇人報仇，從而展開的挑戰故事。
+
+							在不合理的世上，因為意志和活力聚集在一起的年輕人們的「hip」的反叛故事。
+
+							在微縮世界梨泰院這個小街道上，自由追求著各自價值觀，譜寫創業神話。
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+			<div class="border_top">
+				<div class="row ">
+					
+				</div>
+				<div class="row movie_outer ">
+					<div class="title_size ">
+						<p class="text-white ">
+							<h3 class="text-white ">
+								為<br>您<br>推<br>薦
+							</h3>
+						</p>
+					</div>
+
+					<div class="">
+						<div class="card movie_margin">
+							<a href="">
+								<img class="movie2"src="img/不可能的任務.jpg">
+								<p class="text-white product_name text-right">不可能的任務
+								</p>
+							</a>
+							
+						</div>
+					</div>
+					<div class="">
+						<div class="card movie_margin">
+							<a href="">
+								<img class="movie2" src="img/玩命關頭.jpg">
+								<p class="text-white product_name text-right">玩命關頭
+								</p>
+							</a>
+							
+							
+						</div>
+					</div>
+					<div class="">
+						<div class="card  movie_margin">
+							<a href="">
+								<img class="movie2"src="img/飢餓遊戲.jpg">
+								<p class="text-white product_name text-right">飢餓遊戲
+								</p>
+							</a>
+							
+						</div>
+					</div>
+					<div class="">
+						<div class="card  movie_margin ">
+							<a href="">
+								<img class="movie2"src="img/壞傢伙們.jpg">
+								<p class="text-white product_name text-right">壞傢伙們
+								</p>
+							</a>
+							
+						</div>
+					</div>
+				</div>
+				<div class="row movie_outer ">
+					<div class="title_size ">
+						
+							<p class="text-white ">
+								<h3 class="text-white ">
+									最<br>新<br>上<br>線
+								</h3>
+								
+							</p>
+						
+
+						
+					</div>
+
+					<div class="">
+						<div class="card movie_margin">
+							<a href="">
+								<img class="movie2"src="img/你的名字.jpg">
+								<p class="text-white product_name text-right">你的名字
+								</p>
+							</a>
+							
+						</div>
+					</div>
+					<div class="">
+						<div class="card movie_margin">
+							<a href="">
+								<img class="movie2" src="img/冏媽.jpg">
+								<p class="text-white product_name text-right">冏媽
+								</p>
+							</a>
+							
+						</div>
+					</div>
+					<div class="">
+						<div class="card  movie_margin">
+							<a href="">
+								<img class="movie2"src="img/姐妹老闆.jpg">
+								
+								<p class="text-white product_name text-right">姐妹老闆
+								</p>
+							</a>
+						
+						</div>
+					</div>
+					<div class="">
+						<div class="card  movie_margin ">
+							<a href="">
+								<img class="movie2"src="img/激戰.jpg">
+								<p class="text-white product_name text-right">激戰
+								</p>
+							</a>
+							
+						</div>
+					</div>
+				</div>
+				</div>
+		</div>
+		
+
+		<footer>
+			<div class="movie_outer ">
+				<div class="row2">
+					<div class ="   text-white">
+						<p>有任何疑問嗎??請聯絡我們</p><br>
+						<div class="row"> 
+							<img class="img2" src="img/話筒.png">
+							<p>聯絡電話：04-1234567</p>
+						</div>
+						
+					</div>
+					
+					<div class ="  ">
+						
+						
+						<div>
+							<a href=""><img class="img2" src="img/ig.png"></a>
+							<a href=""><img class="img2" src="img/fb.png"></a>
+							<a href=""><img class="img2" src="img/line.png"></a>
+						</div>
+						
+					</div>
+				</div>
+				
+			</div>
+		</footer>
+	<!-- JS連結 -->
+	<script src="js/jQuery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap.bundle.min.js"></script>
+	<script src="js/bootstrap.bundle.js"></script>	
+</body>
+</html>
+
+
+
